@@ -29,7 +29,7 @@ Através da análise exploratória dos dados, foi possível extrair os seguintes
 
 ---
 
-## 🖼️ Visualização do Dashboard
+##  Visualização do Dashboard
 
 ### Visão Geral e Saúde do Negócio
 Abaixo, a visão geral consolidada dos primeiros seis meses de operação.
