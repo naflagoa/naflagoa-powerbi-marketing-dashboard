@@ -33,7 +33,7 @@ Através da análise exploratória dos dados, foi possível extrair os seguintes
 
 ### Visão Geral e Saúde do Negócio
 Abaixo, a visão geral consolidada dos primeiros seis meses de operação.
-![Visão Geral](visao_Geral.png)
+![Visão Geral](visao_geral.png)
 
 ### Visão por Canal e Custos de Aquisição (CAC)
 Detalhamento de investimento, faturamento e eficiência (CAC) segmentado por Google Ads, Meta Ads e Orgânico.
